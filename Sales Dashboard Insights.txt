@@ -1,0 +1,7 @@
+--Sales Dashboard Insights:-
+
+1. Classic Cars is the top-selling product line, contributing approximately **39%** of total sales — significantly outperforming all other categories.
+
+2. The EMEA territory generated the highest revenue, reaching over **$5 million**, making it the strongest regional market.
+
+3. December 2004 recorded the highest monthly sales, indicating strong performance during the holiday season.
